@@ -20,11 +20,11 @@ Contributions, suggestions, and improvements are welcome! Feel free to submit pu
 
 ## 👨‍💻 About the Author
 
-**Sohail Ahmad** is a seasoned Senior Software Engineer with over a decade of experience specializing in full-stack development using .NET, Angular, Xamarin, Flutter, and AI solutions. Currently serving as a Full Stack .NET Developer at the UAE General Civil Aviation Authority (GCAA) in Dubai, Sohail actively engages in the full software development lifecycle, including requirement gathering, architecture design, implementation, and deployment. He has extensive expertise in developing cloud-native applications, integrating complex systems, and creating innovative AI-powered solutions.
+**Sohail Ahmad** is a seasoned Senior Software Engineer with over a decade of experience specializing in full-stack development using .NET, Angular, Xamarin, Flutter, and AI solutions. Currently, Sohail is working in the UAE government sector as a tech champion, actively engaged in the complete software development lifecycle, including requirement gathering, architecture design, implementation, and deployment. He has extensive expertise in developing cloud-native applications, integrating complex systems, and creating innovative AI-powered solutions.
 
 Sohail holds a Master’s Degree in Computer Science and Information Technology from The Islamia University of Bahawalpur. He is passionate about software engineering excellence and continuously seeks opportunities for collaboration and innovation.
 
-Feel free to connect via [LinkedIn](https://www.linkedin.com/in/sohailahmad-com) or email at [hi@sohailahmad.com](mailto:hi@sohailahmad.com).
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/sohailahmad-com), visit his [website](https://sohailahmad.com), or email at [hi@sohailahmad.com](mailto:hi@sohailahmad.com).
 
 ## 📖 License
 
